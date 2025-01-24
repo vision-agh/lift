@@ -6,7 +6,7 @@ It is tailored for (but not restricted to) real-time implementation on low-end F
 By the time of publication, it achieves the best detection performance on NuScenes-val among methods with comparable structure and complexity.
 For more details, please refer to:
 
-**LiFT: Lightweight, FPGA-tailored 3D object detection based on LiDAR data** <br />
+**LiFT: Lightweight, FPGA-tailored 3D object detection based on LiDAR data [[Paper](https://arxiv.org/abs/2501.11159)]** <br />
 [Konrad Lis](https://orcid.org/0000-0003-2034-0590), [Tomasz Kryjak](https://orcid.org/0000-0001-6798-4444), [Marek Gorgoń](https://orcid.org/0000-0003-1746-1279)<br />
 
 ## Installation
